@@ -1,9 +1,9 @@
 ### Hi there, my name is Vincent 👋
 
-##### 🔭 I’m currently working on a few of web apps, a (healthy) food tracking app named Glow and task management app for households called SpaceM8s.
-##### 🌱 I’m currently learning TS, particularly in conjunction with React and React Native libraries.
-##### 📫 How to reach me: vochoa893@gmail.com
-##### ⚡ Fun fact: When I'm not learning and building on the web, I love tinkering with anything that makes noise 🎵
+###### 🔭  I’m currently working on a few of web apps, a (healthy) food tracking app named Glow, and task management app for households called SpaceM8s.
+###### 🌱  I’m currently learning TS, particularly in conjunction with React and React Native libraries.
+###### 📫  How to reach me: vochoa893@gmail.com
+###### ⚡  Fun fact: When I'm not learning and building on the web, I love tinkering with anything that makes noise 🎵
 <!--
 **vincentochoa3/vincentochoa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
